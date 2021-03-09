@@ -1,0 +1,13 @@
+body {
+  background-color: #ffffff;
+  margin: auto;
+}
+
+h1 {
+  color: black;
+  font-size: 5rem;
+  font-family: 'Courier', cursive;
+  text-align: center;
+  background-color: #ffcb00;
+
+}
