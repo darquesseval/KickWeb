@@ -1,0 +1,38 @@
+body {
+  background-color: #ddeeee;
+}
+
+h1 {
+  color: #33aa00;
+  font-size: 5rem;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+}
+
+p {
+  color: #dd6600;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+
+.right_side {
+  color: grey;
+  text-align: right;
+  margin-top: -30px;
+  font-family: 'Dancing Script';
+}
+
+.bigger {
+  font-size: 300px;
+  border-style: solid;
+  margin-top: -110px;
+  border-width: 40px 0px;
+  border-color: white;
+}
+.left_side{
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  margin-bottom: -700px;
+  margin-top: -180px;
+}

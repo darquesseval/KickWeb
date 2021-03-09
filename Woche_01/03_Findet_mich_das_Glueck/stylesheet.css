@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #bbbbbb;
+  font-size: 30px;
+  text-align: left;
+}
+
+p {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+
+.type_1 {
+  color: grey;
+  text-align: right;
+  margin-top: 150px;
+  font-family: 'Baskerville';
+}
+
+.type_2 {
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-style: solid;
+  margin-top: 300px;
+  border-width: 1px 0px;
+  border-color: white;
+}
+.type_3{
+  font-family: 'Courier New';
+  margin-top: 200px;
+}
+
+span.type_3_ver {
+  writing-mode: vertical-rl;
+  color: orange;
+}
