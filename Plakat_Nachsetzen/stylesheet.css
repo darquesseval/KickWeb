@@ -1,0 +1,47 @@
+
+  body {
+    background-image: url('zz_Vorlage/N-Troxler-s-w.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+@font-face { font-family: Franklin Gothic Black SSi Black; src: url('zz_Fonts/Franklin Gothic Black SSi Black/Franklin Gothic Black SSi Black.ttf'); }
+
+
+
+
+div{
+  /* opacity: 0.5; */
+  color: red;
+  font-size: 49vw;
+  font-family: 'Franklin Gothic Black SSi Black';
+  text-align: center;
+  margin-top: -1.5vw;
+  margin-left: 1vw;
+  text-align: left;
+  background-color: white;
+  position: absolute
+}
+
+.L {
+  color: white;
+  font-size: 49vw;
+  background-color: red;
+  margin-top: -51.6vw;
+  margin-left: 21.8vw;
+}
+
+.A {
+  color: red;
+  font-size: 50vw;
+  margin-top: -42.8vw;
+  margin-left: 41.8vw;
+}
+
+.K {
+  color: white;
+  font-size: 49vw;
+  background: red;
+  margin-top: -43.2vw;
+  margin-left: 65.7vw;
+}
