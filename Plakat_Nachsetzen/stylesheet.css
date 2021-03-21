@@ -1,47 +1,67 @@
 
-  body {
+
+body {
     background-image: url('zz_Vorlage/N-Troxler-s-w.png');
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-attachment: center;
+    background-size: 35vw;
+    background-position: top center;
 }
 @font-face { font-family: Franklin Gothic Black SSi Black; src: url('zz_Fonts/Franklin Gothic Black SSi Black/Franklin Gothic Black SSi Black.ttf'); }
 
 
 
-
 div{
-  /* opacity: 0.5; */
+  opacity: 0.5;
   color: red;
-  font-size: 49vw;
+  font-size: 17vw;
   font-family: 'Franklin Gothic Black SSi Black';
   text-align: center;
-  margin-top: -1.5vw;
-  margin-left: 1vw;
-  text-align: left;
+  margin-left: 32.5vw;
+  margin-top: -0.8vw;
   background-color: white;
-  position: absolute
+  position: absolute;
 }
 
-.L {
+.zwei {
   color: white;
-  font-size: 49vw;
   background-color: red;
-  margin-top: -51.6vw;
-  margin-left: 21.8vw;
+  margin-top: -17.9vw;
+  margin-left: 7.75vw;
 }
 
-.A {
+.drei {
   color: red;
-  font-size: 50vw;
-  margin-top: -42.8vw;
-  margin-left: 41.8vw;
+  margin-top: -14.7vw;
+  margin-left: 14.8vw;
 }
 
-.K {
+.vier {
   color: white;
-  font-size: 49vw;
   background: red;
-  margin-top: -43.4vw;
-  margin-left: 65.7vw;
+  margin-top: -15.1vw;
+  margin-left: 23.2vw;
+}
+
+.fuenf {
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: 10.8vw;
+  margin-left: -0.6vw;
+}
+
+.sechs {
+  color: red;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 16.4vw;
+  margin-top: 10.2vw;
+  margin-left: 6.8vw;
+}
+
+.sieben {
+  color: blue;
+  background: red;
+  background-color: rgba(0, 0, 0, 0);
+  margin-top: 11.8vw;
+  margin-left: 14.2vw;
 }

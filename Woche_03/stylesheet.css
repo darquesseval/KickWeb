@@ -17,7 +17,7 @@ div {
 
 div:hover  .lines {
   background-color: #ffdd00;
-  transition: all 1s ease-in;
+  transition: all 2s ease-in;
   transform-origin: top left;
   transform: scale(2) translate(150vw, 0vw);
 }
