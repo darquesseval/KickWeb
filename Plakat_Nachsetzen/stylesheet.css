@@ -9,18 +9,23 @@ body {
 }
 @font-face { font-family: Franklin Gothic Black SSi Black; src: url('zz_Fonts/Franklin Gothic Black SSi Black/Franklin Gothic Black SSi Black.ttf'); }
 
-
+p{
+  color: black;
+  font-size: 0.9vw;
+  line-height: 0.95vw;
+  font-family: 'Franklin Gothic Black SSi Black';
+  text-align: left;
+  position: absolute;
+}
 
 div{
-  /* opacity: 0.5; */
-  color: red;
+  color: black;
   font-size: 17vw;
   font-family: 'Franklin Gothic Black SSi Black';
   text-align: center;
   background-color: rgba(0, 0, 0, 0);
   margin-left: 32.5vw;
   margin-top: -0.8vw;
-  /* background-color: white; */
   position: absolute;
 }
 
@@ -31,7 +36,7 @@ div{
 }
 
 .drei {
-  color: red;
+  color: black;
   margin-top: -14.7vw;
   margin-left: 14.8vw;
 }
@@ -61,7 +66,7 @@ div{
 }
 
 .acht {
-  color: red;
+  color: black;
   margin-top: 19.1vw;
   margin-left: -1.2vw;
 }
@@ -73,7 +78,7 @@ div{
 }
 
 .zehn {
-  color: red;
+  color: black;
   margin-top: 20.7vw;
   margin-left: 13.9vw;
 }
@@ -91,7 +96,7 @@ div{
 }
 
 .dreizehn {
-  color: red;
+  color: black;
   margin-top: 29vw;
   margin-left: 5.95vw;
 }
@@ -103,7 +108,7 @@ div{
 }
 
 .fuenfzehn {
-  color: red;
+  color: black;
   margin-top: 39.2vw;
   margin-left: -3.6vw;
 }
@@ -115,7 +120,7 @@ div{
 }
 
 .siebzehn {
-  color: red;
+  color: black;
   margin-top: 38.4vw;
   margin-left: 15.4vw;
 }
@@ -127,7 +132,7 @@ div{
 }
 
 .neunzehn {
-  color: red;
+  color: black;
   margin-top: 38.1vw;
   margin-left: 27.7vw;
 }
