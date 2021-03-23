@@ -1,0 +1,170 @@
+body {
+  background-color: black;
+  /* background-image: url('zz_Vorlage/N-Troxler-s-w.png');
+  background-repeat: no-repeat;
+  background-attachment: center;
+  background-size: 35vw;
+  background-position: top center; */
+}
+
+@font-face {
+  font-family: Franklin Gothic Black SSi Black;
+  src: url('zz_Fonts/Franklin Gothic Black SSi Black/Franklin Gothic Black SSi Black.ttf');
+}
+
+p {
+  color: black;
+  font-size: 0.9vw;
+  line-height: 0.95vw;
+  font-family: 'Franklin Gothic Black SSi Black';
+  text-align: left;
+  position: absolute;
+}
+
+@keyframes appearingletters {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+div {
+  color: black;
+  font-size: 17vw;
+  font-family: 'Franklin Gothic Black SSi Black';
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0);
+  margin-left: 32.5vw;
+  margin-top: -0.8vw;
+  position: absolute;
+  opacity: 0;
+  animation-name: appearingletters;
+  animation-duration: 50ms;
+  animation-fill-mode: forwards;
+}
+
+.eins {
+  margin-top: 0vw;
+  margin-left: 0vw;
+  animation-delay: 0.3s;
+}
+
+.zwei {
+  margin-top: -2.75vw;
+  margin-left: 7.75vw;
+  animation-delay: 0.6s;
+}
+
+.drei {
+  margin-top: 0.45vw;
+  margin-left: 14.8vw;
+  animation-delay: 0.9s;
+}
+
+.vier {
+  margin-top: 0.05vw;
+  margin-left: 23.2vw;
+  animation-delay: 1.2s;
+}
+
+.fuenf {
+  margin-top: 10.8vw;
+  margin-left: -0.6vw;
+  animation-delay: 1.5s;
+}
+
+.sechs {
+  font-size: 16.4vw;
+  margin-top: 10.2vw;
+  margin-left: 6.8vw;
+  animation-delay: 1.8s;
+}
+
+.sieben {
+  margin-top: 11.35vw;
+  margin-left: 14.45vw;
+  animation-delay: 2.1s;
+}
+
+.acht {
+  color: black;
+  margin-top: 19.1vw;
+  margin-left: -1.2vw;
+  animation-delay: 2.4s;
+}
+
+.neun {
+  margin-top: 20.15vw;
+  margin-left: 5.2vw;
+  animation-delay: 2.7s;
+}
+
+.zehn {
+  color: black;
+  margin-top: 20.7vw;
+  margin-left: 13.9vw;
+  animation-delay: 3s;
+}
+
+.elf {
+  margin-top: 18.3vw;
+  margin-left: 20.05vw;
+  animation-delay: 3.3s;
+}
+
+.zwoelf {
+  margin-top: 28.7vw;
+  margin-left: -2.65vw;
+  animation-delay: 3.6s;
+}
+
+.dreizehn {
+  color: black;
+  margin-top: 29vw;
+  margin-left: 5.95vw;
+  animation-delay: 3.9s;
+}
+
+.vierzehn {
+  margin-top: 29.15vw;
+  margin-left: 16.35vw;
+  animation-delay: 4.2s;
+}
+
+.fuenfzehn {
+  color: black;
+  margin-top: 39.2vw;
+  margin-left: -3.6vw;
+  animation-delay: 4.5s;
+}
+
+.sechzehn {
+  margin-top: 38.9vw;
+  margin-left: 8.45vw;
+  animation-delay: 4.8s;
+}
+
+.siebzehn {
+  color: black;
+  margin-top: 38.4vw;
+  margin-left: 15.4vw;
+  animation-delay: 5.1s;
+}
+
+.achzehn {
+  margin-top: 40.4vw;
+  margin-left: 18.15vw;
+  animation-delay: 5.4s;
+}
+
+.neunzehn {
+  color: black;
+  margin-top: 38.1vw;
+  margin-left: 27.7vw;
+  animation-delay: 5.7s;
+}
