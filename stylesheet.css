@@ -4,19 +4,23 @@ body {
 
 div {
   color: black;
-  font-size: 3vw;
-  font-family: 'Courier', cursive;
+  font-size: 6vw;
+  font-family: 'Avenir';
   text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 .linked {
   font-size: 2vw;
   color: #cccccc;
-  margin-top: 1vw;
+  margin-top: 2vw;
   text-align: center;
   height: 3vw;
   width: 12vw;
   border-top: 1vw;
-border: medium solid #ffdd00;
-
+  border: thick solid #ffdd00;
+  font-variant: small-caps;
 }
