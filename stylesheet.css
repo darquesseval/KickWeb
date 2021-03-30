@@ -1,0 +1,22 @@
+body {
+  background-color: #ffffff;
+}
+
+div {
+  color: black;
+  font-size: 3vw;
+  font-family: 'Courier', cursive;
+  text-align: center;
+}
+
+.linked {
+  font-size: 2vw;
+  color: #cccccc;
+  margin-top: 1vw;
+  text-align: center;
+  height: 3vw;
+  width: 12vw;
+  border-top: 1vw;
+border: medium solid #ffdd00;
+
+}
