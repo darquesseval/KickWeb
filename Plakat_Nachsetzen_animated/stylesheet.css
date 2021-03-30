@@ -30,7 +30,6 @@ p {
   }
   100% {
     opacity: 1;
-      transform: rotate(360deg);
   }
 }
 
@@ -45,127 +44,127 @@ div {
   position: absolute;
   opacity: 0;
   animation-name: appearingletters;
-  animation-duration: 900ms;
+  animation-duration: 9ms;
   animation-fill-mode: forwards;
 }
 
 .eins {
   margin-top: 0vw;
   margin-left: 0vw;
-  animation-delay: 0.3s;
+  animation-delay: 2.1s;
 }
 
 .zwei {
   margin-top: -2.75vw;
   margin-left: 7.75vw;
-  animation-delay: 0.6s;
+  animation-delay: 0.3s;
 }
 
 .drei {
   margin-top: 0.45vw;
   margin-left: 14.8vw;
-  animation-delay: 0.9s;
+  animation-delay: 6.3s;
 }
 
 .vier {
   margin-top: 0.05vw;
   margin-left: 23.2vw;
-  animation-delay: 1.2s;
+  animation-delay: 4.5s;
 }
 
 .fuenf {
   margin-top: 10.8vw;
   margin-left: -0.6vw;
-  animation-delay: 1.5s;
+  animation-delay: 3s;
 }
 
 .sechs {
   font-size: 16.4vw;
   margin-top: 10.2vw;
   margin-left: 6.8vw;
-  animation-delay: 1.8s;
+  animation-delay: 5.1s;
 }
 
 .sieben {
   margin-top: 11.35vw;
   margin-left: 14.45vw;
-  animation-delay: 2.1s;
+  animation-delay: 0.6s;
 }
 
 .acht {
   color: black;
   margin-top: 19.1vw;
   margin-left: -1.2vw;
-  animation-delay: 2.4s;
+  animation-delay: 3.6s;
 }
 
 .neun {
   margin-top: 20.15vw;
   margin-left: 5.2vw;
-  animation-delay: 2.7s;
+  animation-delay: 1.5s;
 }
 
 .zehn {
   color: black;
   margin-top: 20.7vw;
   margin-left: 13.9vw;
-  animation-delay: 3s;
+  animation-delay: 6s;
 }
 
 .elf {
   margin-top: 18.3vw;
   margin-left: 20.05vw;
-  animation-delay: 3.3s;
+  animation-delay: 2.7s;
 }
 
 .zwoelf {
   margin-top: 28.7vw;
   margin-left: -2.65vw;
-  animation-delay: 3.6s;
+  animation-delay: 2.4s;
 }
 
 .dreizehn {
   color: black;
   margin-top: 29vw;
   margin-left: 5.95vw;
-  animation-delay: 3.9s;
+  animation-delay: 4.2s;
 }
 
 .vierzehn {
   margin-top: 29.15vw;
   margin-left: 16.35vw;
-  animation-delay: 4.2s;
+  animation-delay: 1.2s;
 }
 
 .fuenfzehn {
   color: black;
   margin-top: 39.2vw;
   margin-left: -3.6vw;
-  animation-delay: 4.5s;
+  animation-delay: 0.9s;
 }
 
 .sechzehn {
   margin-top: 38.9vw;
   margin-left: 8.45vw;
-  animation-delay: 4.8s;
+  animation-delay: 5.4s;
 }
 
 .siebzehn {
   color: black;
   margin-top: 38.4vw;
   margin-left: 15.4vw;
-  animation-delay: 5.1s;
+  animation-delay: 4.8s;
 }
 
 .achzehn {
   margin-top: 40.4vw;
   margin-left: 18.15vw;
-  animation-delay: 5.4s;
+  animation-delay: 1.8s;
 }
 
 .neunzehn {
   color: black;
   margin-top: 38.1vw;
   margin-left: 27.7vw;
-  animation-delay: 5.7s;
+  animation-delay: 3.3s;
 }
