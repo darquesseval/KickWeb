@@ -183,10 +183,10 @@ div {
 
 @media only screen and (orientation: landscape) {
   body {
-    transform: rotate(270deg) scale(2);
+    transform: rotate(270deg) scale(2.1);
     /* margin-top: -75%; */
     /* margin-left: 100%; */
-    margin-top: -77%;
+    margin-top: -73%;
     margin-left: -100%;
  }
 
