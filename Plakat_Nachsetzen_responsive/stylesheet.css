@@ -171,10 +171,20 @@ div {
     font-size: 11px;
     line-height: 12px;
 }
+@keyframes appearingletters {
+  90% {
+    opacity: 0;
+    transform: rotate(90deg);
+  }
+  100% {
+    opacity: 1;
+  }
+}
 }
 
 @media only screen and (orientation: landscape) {
   body {
-    transform: rotate(90deg)
+    transform: rotate(90deg) scale(2);
+    margin-top: 50%;
   }
 }
