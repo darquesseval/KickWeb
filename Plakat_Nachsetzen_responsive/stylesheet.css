@@ -191,18 +191,19 @@ div {
 
   }
 
-  /* .whiteblock1 {
-    transform: rotate(90deg);
+  .whiteblock1 {
     background-color: white;
+    order: 100;
+    transform: rotate(90deg);
     color: blue;
-margin-top: 10%;
+    margin-top: -100%;
   }
 
   .whiteblock2 {
     transform: rotate(90deg);
     background-color: white;
     color: blue;
-  } */
+  }
 }
 
 @media only screen and (orientation: portrait) {
