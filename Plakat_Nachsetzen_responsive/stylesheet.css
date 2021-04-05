@@ -188,7 +188,8 @@ div {
     /* margin-left: 100%; */
     margin-top: -77%;
     margin-left: -100%;
-  }
+position: fixed;
+ }
 
   .whiteblock1 {
     transform: rotate(90deg);
@@ -210,7 +211,6 @@ div {
 @media only screen and (orientation: portrait) {
   body {
     transform: scale(3);
-    position: fixed;
   }
 
   p {
@@ -233,7 +233,7 @@ div {
     margin-left: 33vw;
     margin-top: 52px;
     background-color: white;
-    width: 90px;
+    width:90px;
     height: 52px;
     order: 100;
   }
