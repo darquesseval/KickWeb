@@ -189,11 +189,11 @@ div {
   }
 
   .whiteblock1 {
-    transform: rotate(-90deg);
+    transform: rotate(270deg);
   }
 
   .whiteblock2 {
-    transform: rotate(-90deg);
+    transform: rotate(270deg);
   }
 }
 
