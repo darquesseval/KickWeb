@@ -211,6 +211,7 @@ div {
 @media only screen and (orientation: portrait) {
   body {
     transform: scale(3);
+    overflow: hidden;
   }
 
   p {
