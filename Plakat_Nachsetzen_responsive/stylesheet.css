@@ -198,7 +198,7 @@ div {
 }
 
 @media only screen and (orientation: portrait) {
-div {
+body {
   transform: scale(3);
 }
 
