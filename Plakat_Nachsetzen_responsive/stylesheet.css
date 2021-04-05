@@ -195,16 +195,16 @@ div {
   .whiteblock2 {
     transform: rotate(-90deg);
   }
-
 }
-@media only screen and (orientation: portrait)  and (max-width: 1024) {
+
+@media only screen and (orientation: portrait) {
 body {
   transform: scale(3);
 }
-p {
+/* p {
   font-size: 11px;
   line-height: 12px;
-}
+} */
 
 .whiteblock1 {
   margin-top: 0px;
