@@ -14,7 +14,7 @@ body {
 
 p {
   color: black;
-  font-size: 0.9vw;
+  font-size: 9vw;
   line-height: 0.95vw;
   font-family: 'Franklin Gothic Black SSi Black';
   text-align: left;
@@ -169,3 +169,8 @@ div {
 @media only screen and (max-width: 1024px) {
 
 }
+
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: lightblue;
+  }
