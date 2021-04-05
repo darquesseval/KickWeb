@@ -181,7 +181,7 @@ div {
   margin-top: 32.4vw;
 }
 
-@media only screen and (orientation: landscape){
+@media only screen and (orientation: landscape) {
   body {
     transform: rotate(90deg) scale(2.3);
     margin-top: -75%;
@@ -198,31 +198,31 @@ div {
 }
 
 @media only screen and (orientation: portrait) {
-body {
-  transform: scale(3);
-}
+  body {
+    transform: scale(3);
+  }
 
-p {
-  margin-left: 10px;
-  font-size: 6px;
-  line-height: 7px;
-}
+  p {
+    margin-left: 10px;
+    font-size: 6px;
+    line-height: 7px;
+  }
 
-.whiteblock1 {
-  margin-top: 0px;
-  text-align: center;
-  background-color: red;
-  width: 60px;
-  height: 30px;
-  order: 99;
-}
+  .whiteblock1 {
+    margin: auto;
+    margin-top: 0px;
+    background-color: red;
+    width: 60px;
+    height: 30px;
+    order: 99;
+  }
 
-.whiteblock2 {
-  margin-top: 36px;
-  text-align: center;
-  background-color: red;
-  width: 60px;
-  height: 36px;
-  order: 100;
-}
+  .whiteblock2 {
+    margin: auto;
+    margin-top: 36px;
+    background-color: red;
+    width: 60px;
+    height: 36px;
+    order: 100;
+  }
 }
