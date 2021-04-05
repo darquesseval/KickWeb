@@ -195,7 +195,7 @@ div {
     transform: rotate(90deg);
     color: red;
     margin-left: 25%;
-    margin-top: 5%;
+    margin-top: 10%;
     order: 99;
   }
 
@@ -203,7 +203,7 @@ div {
     transform: rotate(90deg);
     color: red;
     margin-left: -25%;
-    margin-top: 5%;
+    margin-top: 10%;
     order: 100;
   }
 }
