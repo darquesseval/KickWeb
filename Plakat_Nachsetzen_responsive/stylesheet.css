@@ -203,7 +203,7 @@ div {
     transform: rotate(90deg);
     color: red;
     margin-left: -25%;
-    margin-top: 25%;
+    margin-top: 0%;
     order: 100;
   }
 }
