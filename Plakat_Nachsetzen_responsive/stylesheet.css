@@ -198,7 +198,7 @@ div {
 }
 
 @media only screen and (orientation: portrait) {
-body {
+div {
   transform: scale(3);
 }
 
@@ -210,7 +210,7 @@ p {
 
 .whiteblock1 {
   margin-top: 0px;
-  margin-left: 0px;
+  margin-left: 100px;
   text-align: center;
   background-color: red;
   width: 100px;
@@ -221,7 +221,7 @@ p {
 
 .whiteblock2 {
   margin-top: 45px;
-  margin-left: 0px;
+  margin-left: 100px;
   text-align: center;
   background-color: red;
   width: 100px;
