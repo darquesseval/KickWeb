@@ -199,7 +199,7 @@ div {
 }
 @media only screen and (orientation: portrait)  and (max-width: 1024) {
 body {
-  /* transform: scale(3); */
+  transform: scale(3);
 }
 p {
   font-size: 11px;
