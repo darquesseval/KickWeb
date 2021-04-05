@@ -188,18 +188,20 @@ div {
   }
 
   .whiteblock1 {
-    margin-top: 25%;
-    margin-left: 50%;
+    margin-top: 0px;
+    text-align: center;
     background-color: red;
-    width: 80px;
+    width: 100px;
     height: 50px;
     order: 100;
   }
 
   .whiteblock2 {
-    margin-top: 50%;
-    margin-left: 50%;
+    margin-top: 80px;
+    text-align: center;
     background-color: red;
+    width: 100px;
+    height: 50px;
     order: 101;
   }
 }
@@ -210,6 +212,7 @@ div {
     margin-top: 25%;
     margin-left: 25%;
   }
+
   .whiteblock1 {
     transform: rotate(-90deg);
   }
@@ -217,5 +220,4 @@ div {
   .whiteblock2 {
     transform: rotate(-90deg);
   }
-
 }
