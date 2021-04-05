@@ -193,7 +193,7 @@ div {
 
   .whiteblock1 {
     transform: rotate(90deg);
-    color: blue;
+    color: red;
     margin-left: 25%;
     margin-top: -50%;
     order: 99;
@@ -201,8 +201,9 @@ div {
 
   .whiteblock2 {
     transform: rotate(90deg);
-    color: blue;
-    margin-top: -10%;
+    color: red;
+    margin-left: -25%;
+    margin-top: 25%;
     order: 100;
   }
 }
