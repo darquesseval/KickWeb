@@ -183,9 +183,9 @@ div {
 
 @media only screen and (orientation: landscape) {
   body {
-    transform: rotateX(270deg) scale(2.3);
-    /* margin-top: -75%;
-    margin-left: 100%; */
+    transform: rotate(90deg) scale(2.3);
+    margin-top: -75%;
+    /* margin-left: 100%; */
   }
 
   .whiteblock1 {
