@@ -184,7 +184,7 @@ div {
 @media only screen and (orientation: landscape){
   body {
     transform: rotate(90deg) scale(2.3);
-    margin-top: -125%;
+    margin-top: -150%;
     margin-left: 100%;
   }
 
