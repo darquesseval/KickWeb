@@ -1,10 +1,5 @@
 body {
   background-color: black;
-  /* background-image: url('zz_Vorlage/N-Troxler-s-w.png');
-  background-repeat: no-repeat;
-  background-attachment: center;
-  background-size: 35vw;
-  background-position: top center; */
 }
 
 @font-face {
@@ -184,15 +179,12 @@ div {
 @media only screen and (orientation: landscape) {
   body {
     transform: rotate(270deg) scale(2.05);
-    /* margin-top: -75%; */
-    /* margin-left: 100%; */
     margin-top: -70%;
     margin-left: -100%;
  }
 
   .whiteblock1 {
     transform: rotate(90deg);
-    background-color: red;
     margin-left: 32%;
     margin-top: 5.3%;
     order: 99;
@@ -200,7 +192,6 @@ div {
 
   .whiteblock2 {
     transform: rotate(90deg);
-    background-color: red;
     margin-left: 32%;
     margin-top: 15.8%;
     order: 100;
