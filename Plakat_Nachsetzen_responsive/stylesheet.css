@@ -204,8 +204,8 @@ body {
 
 p {
   margin-left: 10px;
-  font-size: 5px;
-  line-height: 6px;
+  font-size: 6px;
+  line-height: 7px;
 }
 
 .whiteblock1 {
@@ -213,18 +213,18 @@ p {
   margin-left: 500px;
   text-align: center;
   background-color: red;
-  width: 30px;
-  height: 38px;
-  order: 24;
+  width: 60px;
+  height: 30px;
+  order: 99;
 }
 
 .whiteblock2 {
-  margin-top: 80px;
+  margin-top: 36px;
   margin-left: 500px;
   text-align: center;
   background-color: red;
-  width: 30;
-  height: 30;
+  width: 60px;
+  height: 36px;
   order: 100;
 }
 }
