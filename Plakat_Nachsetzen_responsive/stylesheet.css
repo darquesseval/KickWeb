@@ -181,36 +181,11 @@ div {
   margin-top: 32.4vw;
 }
 
-@media only screen and (max-width: 1024px) {
-  p {
-    font-size: 11px;
-    line-height: 12px;
-  }
-
-  .whiteblock1 {
-    margin-top: 0px;
-    text-align: center;
-    background-color: red;
-    width: 100px;
-    height: 50px;
-    order: 100;
-  }
-
-  .whiteblock2 {
-    margin-top: 80px;
-    text-align: center;
-    background-color: red;
-    width: 100px;
-    height: 50px;
-    order: 100;
-  }
-}
-
-@media only screen and (orientation: landscape) {
+@media only screen and (orientation: landscape){
   body {
-    transform: rotate(90deg) scale(2);
-    margin-top: 25%;
-    margin-left: 25%;
+    transform: rotate(90deg) scale(3);
+    margin-top: 0%;
+    margin-left: 50%;
   }
 
   .whiteblock1 {
@@ -220,9 +195,36 @@ div {
   .whiteblock2 {
     transform: rotate(-90deg);
   }
+
 }
-@media only screen and (orientation: portrait) {
+@media only screen and (orientation: portrait)  and (max-width: 1024) {
 body {
   transform: scale(3);
+}
+p {
+  font-size: 11px;
+  line-height: 12px;
+}
+
+.whiteblock1 {
+  margin-top: 0px;
+  margin-left: 50px;
+  text-align: center;
+  background-color: red;
+  width: 100px;
+  height: 50px;
+  order: 100;
+  transform: scale(0.5);
+}
+
+.whiteblock2 {
+  margin-top: 80px;
+  margin-left: 50px;
+  text-align: center;
+  background-color: red;
+  width: 100px;
+  height: 50px;
+  order: 100;
+  transform: scale(0.5);
 }
 }
