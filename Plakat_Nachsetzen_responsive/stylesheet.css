@@ -183,18 +183,22 @@ div {
 
 @media only screen and (orientation: landscape) {
   body {
-    transform: rotate(90deg) scale(2.3);
+    transform: rotate(270deg) scale(2.3);
     margin-top: -75%;
     margin-left: 100%;
   }
 
-  /* .whiteblock1 {
-    transform: rotate(270deg);
+  .whiteblock1 {
+    transform: rotate(90deg);
+    margin-top: 30vw;
+    background-color: white;
   }
 
   .whiteblock2 {
-    transform: rotate(270deg);
-  } */
+    transform: rotate(90deg);
+    margin-top: 30vw;
+    background-color: white;
+  }
 }
 
 @media only screen and (orientation: portrait) {
