@@ -212,7 +212,7 @@ div {
   .whiteblock1 {
     margin-left: 33vw;
     margin-top: 0px;
-    background-color: red;
+    background-color: white;
     width: 90px;
     height: 42px;
     order: 99;
@@ -221,7 +221,7 @@ div {
   .whiteblock2 {
     margin-left: 33vw;
     margin-top: 52px;
-    background-color: red;
+    background-color: white;
     width:90px;
     height: 52px;
     order: 100;
