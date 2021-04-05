@@ -25,6 +25,7 @@ p {
   90% {
     opacity: 0;
   }
+
   100% {
     opacity: 1;
   }
@@ -166,25 +167,49 @@ div {
   animation-delay: 3.3s;
 }
 
+.whiteblock1 {
+  animation-name: appearingletters;
+  animation-delay: 3.9s;
+  margin-left: 27.35vw;
+  margin-top: 15.3vw
+}
+
+.whiteblock2 {
+  animation-name: appearingletters;
+  animation-delay: 5.7s;
+  margin-left: 27.35vw;
+  margin-top: 32.4vw;
+}
+
 @media only screen and (max-width: 1024px) {
   p {
     font-size: 11px;
     line-height: 12px;
-}
-@keyframes appearingletters {
-  90% {
-    opacity: 0;
-    transform: rotate(90deg);
   }
-  100% {
-    opacity: 1;
+
+  .whiteblock1 {
+    margin-top: 25%;
+    margin-left: 50%;
   }
-}
+
+  .whiteblock2 {
+    margin-top: 50%;
+    margin-left: 50%;
+  }
 }
 
 @media only screen and (orientation: landscape) {
   body {
     transform: rotate(90deg) scale(2);
-    margin-top: 50%;
+    margin-top: 25%;
+    margin-left: 25%;
   }
+  .whiteblock1 {
+    transform: rotate(-90deg);
+  }
+
+  .whiteblock2 {
+    transform: rotate(-90deg);
+  }
+
 }
