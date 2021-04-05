@@ -195,7 +195,7 @@ div {
     transform: rotate(90deg);
     color: red;
     margin-left: 25%;
-    margin-top: -50%;
+    margin-top: 50%;
     order: 99;
   }
 
