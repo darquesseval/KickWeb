@@ -201,25 +201,27 @@ div {
 body {
   transform: scale(3);
 }
-/* p {
+
+p {
+  margin-left: 10px;
   font-size: 11px;
   line-height: 12px;
-} */
+}
 
 .whiteblock1 {
   margin-top: 0px;
-  margin-left: 500px;
+  margin-left: 0px;
   text-align: center;
   background-color: red;
   width: 100px;
-  height: 50px;
+  height: 38px;
   order: 100;
-  transform: scale(0.5);
+  transform: scale(0.33);
 }
 
 .whiteblock2 {
-  margin-top: 80px;
-  margin-left: 500px;
+  margin-top: 45px;
+  margin-left: 0px;
   text-align: center;
   background-color: red;
   width: 100px;
