@@ -168,11 +168,13 @@ div {
 
 @media only screen and (max-width: 1024px) {
   p {
-    font-size: 9px;
+    font-size: 11px;
+    line-height: 12px;
+}
 }
 
 @media only screen and (orientation: landscape) {
-  div {
+  body {
     transform: rotate(90deg)
   }
 }
