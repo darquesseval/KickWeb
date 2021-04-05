@@ -194,7 +194,7 @@ div {
   .whiteblock1 {
     transform: rotate(90deg);
     background-color: red;
-    margin-left: 15%;
+    margin-left: 30%;
     margin-top: 10%;
     order: 99;
   }
