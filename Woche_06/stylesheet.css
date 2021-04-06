@@ -16,9 +16,9 @@ div {
   display: grid;
   grid-gap: 50px;
   grid-template-areas:
-  'topleft topright'
-  'left right'
-  'botleft botright';
+  'anotherone topleft topright'
+  'left anotherone right'
+  'botleft botright anotherone';
 }
 
 .one {
