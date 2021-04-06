@@ -1,5 +1,5 @@
-# KickWeb
-HSLU, DI, 2. Semester, Modul KickWeb;
-Sprint 1: https://condescending-curran-9d03d6.netlify.app/plakat_nachsetzen_static/
-Sprint 2: https://condescending-curran-9d03d6.netlify.app/plakat_nachsetzen_animated/
-Sprint 3: 
+# KickWeb <br/>
+HSLU, DI, 2. Semester, Modul KickWeb; <br/>
+Sprint 1: https://condescending-curran-of-nikita.netlify.app/plakat_nachsetzen_static/ <br/>
+Sprint 2: https://condescending-curran-of-nikita.netlify.app/plakat_nachsetzen_animated/ <br/>
+Sprint 3: https://condescending-curran-of-nikita.netlify.app/plakat_nachsetzen_responsive/ 
