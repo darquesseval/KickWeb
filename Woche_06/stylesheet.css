@@ -17,7 +17,7 @@ div {
   grid-gap: 50px;
   grid-template-areas:
   'anotherone topleft topright'
-  'left andanother right'
+  'left right'
   'botleft botright plusanother';
 }
 
