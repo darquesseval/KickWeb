@@ -1,0 +1,27 @@
+body {
+  background-color: #77dd77;
+}
+
+div {
+  background-color: #77dd77;
+  display: grid;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  margin: auto;
+  font-size: 10vw;
+  color: white;
+  font-family: "Courier";
+}
+
+.one {
+  background-color: #77dd77;
+  height: 30vh;
+  width: 30vw;
+}
+
+.two {
+  background-color: #fdef85;
+  height: 30vh;
+  width: 30vw;
+}
