@@ -4,12 +4,11 @@ body {
 
 div {
   display: grid;
-  grid-column-start: 1;
-  grid-column-end: 2;
   grid-row-gap: 50px;
   height: 100vh;
   width: 100vw;
   text-align: center;
+  margin: auto;
   font-size: 10vw;
   color: white;
   font-family: "Courier";
@@ -23,6 +22,7 @@ div {
 
 .two {
   background-color: #fdef85;
+  grid-column-end: 2;
   height: 30vh;
   width: 30vw;
 }
