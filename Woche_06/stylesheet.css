@@ -21,10 +21,12 @@ div {
   background-color: #77dd77;
   height: 30vh;
   width: 30vw;
+  grid-area: left;
 }
 
 .two {
   background-color: #fdef85;
   height: 30vh;
   width: 30vw;
+  grid-area: right;
 }
