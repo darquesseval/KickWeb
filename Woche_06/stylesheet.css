@@ -14,7 +14,7 @@ div {
 
 .gridcontainer {
   display: grid;
-  grid-row-gap: 50px;
+  grid-gap: 50px;
   grid-template-areas:
   'topleft topright'
   'left right'
