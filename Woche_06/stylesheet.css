@@ -16,21 +16,49 @@ div {
   display: grid;
   grid-row-gap: 50px;
   grid-template-areas:
+  'topleft topright'
   'left right'
-  'left right'
-  'left right';
+  'botleft botright';
 }
 
 .one {
   background-color: #77dd77;
   height: 30vh;
   width: 30vw;
-  grid-area: left;
+  grid-area: topleft;
 }
 
 .two {
   background-color: #fdef85;
   height: 30vh;
   width: 30vw;
+  grid-area: topright;
+}
+
+.three {
+  background-color: #77dd77;
+  height: 30vh;
+  width: 30vw;
+  grid-area: left;
+}
+
+.four {
+  background-color: #fdef85;
+  height: 30vh;
+  width: 30vw;
   grid-area: right;
+}
+
+.five {
+  background-color: #77dd77;
+  height: 30vh;
+  width: 30vw;
+  grid-area: botleft;
+}
+
+.six {
+  background-color: #fdef85;
+  height: 30vh;
+  width: 30vw;
+  grid-area: botright;
 }
